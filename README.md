@@ -57,6 +57,7 @@ Android 安装包的构建与资源检查不等于真机验收。当前列出的
 
 Skills 单独维护在各自的公开仓库：
 
+- [Dreamie Design](https://github.com/heydreamie/dreamie-design)：把参考图与真实内容转成视觉方案，覆盖版式、配色、传统色、纹样、艺术分析与 AI 风格。
 - [Game Interface Polish](https://github.com/heydreamie/game-interface-polish)：游戏界面迭代与交付验证，附真实前后对比。
 - [教材期末教练](https://github.com/heydreamie/textbook-exam-coach)：围绕课程材料梳理考点、逐题辅导、批改与复习。
 
