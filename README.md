@@ -2,7 +2,7 @@
 
 从生活里的小念头出发，做一些可以打开、可以试用的小产品。
 
-[作品集 · Hey，Dreamie](https://heydreamie.com/) · [关于我](https://github.com/mengqianyu1216)
+[作品集 · Hey，Dreamie](https://heydreamie.com/) · [关于我](https://github.com/heydreamie)
 
 这里按作品集当前项目版本整理五颗核心记忆的产品介绍、已上线的网页体验与 Android 下载入口。仓库只包含展示文档，不包含产品源码；APK 作为安装包分发，不提交到 Git 文件历史。
 
@@ -15,12 +15,12 @@
 [在线体验](https://heydreamie.com/our-stories/) · [产品说明](products/change-perspective.md)  
 当前提供网页版，暂无 Android APK。
 
-### 🌱 Stopia · 把时间还给生活
+### 🌷 攒时光 · 生活手账
 
-给刷手机留一点边界，也给生活里的小行动一点回应。
+体验和记录生活，攒下回忆，也攒下手机使用时间。
 
-[Android APK](https://github.com/mengqianyu1216/dreamie-products/releases/download/stopia-v0.1.3/Stopia-0.1.3-debug.apk) · [产品说明](products/stopia.md)  
-Android v0.1.3 本地测试版；网页版待上线，新版手账功能尚未同步至这个安装包。
+[Android APK](https://github.com/heydreamie/dreamie-products/releases/download/zanshiguang-v0.2.2/Zanshiguang-0.2.2.apk) · [产品说明](products/zanshiguang.md)  
+Android v0.2.2 个人试用版；公开网页版待上线。
 
 ### 📖 书间 · 阅读标本室
 
@@ -57,7 +57,7 @@ Android 安装包的构建与资源检查不等于真机验收。当前列出的
 
 Skills 单独维护在各自的公开仓库：
 
-- [Game Interface Polish](https://github.com/mengqianyu1216/game-interface-polish)：游戏界面迭代与交付验证，附真实前后对比。
-- [教材期末教练](https://github.com/mengqianyu1216/textbook-exam-coach)：围绕课程材料梳理考点、逐题辅导、批改与复习。
+- [Game Interface Polish](https://github.com/heydreamie/game-interface-polish)：游戏界面迭代与交付验证，附真实前后对比。
+- [教材期末教练](https://github.com/heydreamie/textbook-exam-coach)：围绕课程材料梳理考点、逐题辅导、批改与复习。
 
 这些产品属于个人产品设计与 AI 辅助开发实践。各产品的功能与素材说明以其公开案例为准；本展示仓库不额外授予产品代码或素材的复用许可。
