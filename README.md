@@ -8,19 +8,46 @@
 
 ## 五颗核心记忆
 
-| 产品 | 一个小念头 | 网页入口 | Android | 更多 |
-| --- | --- | --- | --- | --- |
-| 💞 换个角度 | 在同一时刻，看见另一边的心情 | [在线体验](https://heydreamie.com/our-stories/) | 暂无 APK | [产品说明](products/change-perspective.md) |
-| 🏋️ 练块 · SET BY SET | 把每组训练变成可回看的积木 | [在线体验](https://heydreamie.com/projects/on-record/dist/index.html) | [v0.1.0 测试版](https://github.com/mengqianyu1216/dreamie-products/releases/download/liankuai-v0.1.0/liankuai-0.1.0-android.apk) | [产品说明](products/liankuai.md) |
-| 📖 书间 · 阅读标本室 | 把片段留住，让理解慢慢生长 | [在线体验](https://heydreamie.com/projects/reading-herbarium/app/index.html) | 暂无 APK | [产品说明](products/shujian.md) |
-| 🌿 Tresu | 把一段专注收进自然里 | [在线体验](https://heydreamie.com/projects/tresu/app/) | [v0.1.0 测试版下载页](https://heydreamie.com/projects/tresu/download.html) | [产品说明](products/tresu.md) |
-| 🌸 Flonote | 一个小念头，一朵慢慢开的花 | [交互演示](https://heydreamie.com/projects/flonote/#growth) | [v0.7.0 体验版](https://heydreamie.com/projects/flonote/downloads/Flonote-0.7.0.apk) | [产品说明](products/flonote.md) |
+### 💞 换个角度
+
+在同一时刻，看见另一边的心情。
+
+[在线体验](https://heydreamie.com/our-stories/) · [产品说明](products/change-perspective.md)  
+当前提供网页版，暂无 Android APK。
+
+### 🏋️ 练块 · SET BY SET
+
+把每组训练变成可回看的积木。
+
+[在线体验](https://heydreamie.com/projects/on-record/dist/index.html) · [Android APK](https://github.com/mengqianyu1216/dreamie-products/releases/download/liankuai-v0.1.0/liankuai-0.1.0-android.apk) · [产品说明](products/liankuai.md)  
+Android v0.1.0 本地测试版。
+
+### 📖 书间 · 阅读标本室
+
+把片段留住，让理解慢慢生长。
+
+[在线体验](https://heydreamie.com/projects/reading-herbarium/app/index.html) · [产品说明](products/shujian.md)  
+当前提供网页版，暂无 Android APK。
+
+### 🌿 Tresu · 自然收集与专注
+
+把一段专注收进自然里。
+
+[在线体验](https://heydreamie.com/projects/tresu/app/) · [Android 下载页](https://heydreamie.com/projects/tresu/download.html) · [产品说明](products/tresu.md)  
+Android v0.1.0 本地测试版。
+
+### 🌸 Flonote · 灵感花园
+
+一个小念头，一朵慢慢开的花。
+
+[交互演示](https://heydreamie.com/projects/flonote/#growth) · [Android APK](https://heydreamie.com/projects/flonote/downloads/Flonote-0.7.0.apk) · [产品说明](products/flonote.md)  
+Android v0.7.0 体验版。
 
 Flonote 的网页入口演示引用续写和花朵生长机制，完整记录体验请使用 Android 体验版。其余网页入口进入对应产品页面。
 
 ## 开始使用
 
-- 想先试试：从上表的网页入口进入。浏览器与 Android 应用分别保存各自的记录。
+- 想先试试：从各项目的网页入口进入。浏览器与 Android 应用分别保存各自的记录。
 - 想安装到手机：使用对应的 Android 下载链接；安装要求、版本信息和已知限制见产品说明。
 - 想了解设计过程：每份产品说明都链接到作品集案例，可以继续查看实际界面和设计取舍。
 
