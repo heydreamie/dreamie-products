@@ -4,7 +4,7 @@
 
 [作品集 · Hey，Dreamie](https://heydreamie.com/) · [关于我](https://github.com/mengqianyu1216)
 
-这里收录作品集当前五颗核心记忆的产品介绍、网页体验与 Android 下载入口。仓库只包含展示文档，不包含产品源码；APK 作为安装包分发，不提交到 Git 文件历史。
+这里按作品集当前项目版本整理五颗核心记忆的产品介绍、已上线的网页体验与 Android 下载入口。仓库只包含展示文档，不包含产品源码；APK 作为安装包分发，不提交到 Git 文件历史。
 
 ## 五颗核心记忆
 
@@ -15,12 +15,12 @@
 [在线体验](https://heydreamie.com/our-stories/) · [产品说明](products/change-perspective.md)  
 当前提供网页版，暂无 Android APK。
 
-### 🏋️ 练块 · SET BY SET
+### 🌱 Stopia · 把时间还给生活
 
-把每组训练变成可回看的积木。
+给刷手机留一点边界，也给生活里的小行动一点回应。
 
-[在线体验](https://heydreamie.com/projects/on-record/dist/index.html) · [Android APK](https://github.com/mengqianyu1216/dreamie-products/releases/download/liankuai-v0.1.0/liankuai-0.1.0-android.apk) · [产品说明](products/liankuai.md)  
-Android v0.1.0 本地测试版。
+[Android APK](https://github.com/mengqianyu1216/dreamie-products/releases/download/stopia-v0.1.3/Stopia-0.1.3-debug.apk) · [产品说明](products/stopia.md)  
+Android v0.1.3 本地测试版；网页版待上线，新版手账功能尚未同步至这个安装包。
 
 ### 📖 书间 · 阅读标本室
 
